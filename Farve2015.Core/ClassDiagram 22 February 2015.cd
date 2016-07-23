@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CGanglion">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAEAAgAQACARAAAAAAAAAQAAAIAAAgAAA=</HashCode>
+      <FileName>Ganglion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLink">
+    <Position X="2.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIAAAQAAAAAEAAAIBAAAAQAACBQAAAIAAAAAA=</HashCode>
+      <FileName>Link.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNode">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BABAAAQAAAAEAAAAAAAAAAUCAAQAAACCCIQAAAAFAAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSignallingEntityBase" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAwAAAAAAAQAIAIIAAAAAAAAMAgAAAAA=</HashCode>
+      <FileName>SignallingEntityBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSynapse">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIAAAQAAAAAEAAAAAAIAAAAACCAAAAIAAAAAA=</HashCode>
+      <FileName>Synapse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  VariableBagManager.cpp
+  VariableBag.cpp
+  Variable.cpp
+  System.cpp
+  Synapse.cpp
+  SignallingEntityBase.cpp
+  RecruitImplFuncs.cpp
+  Node.cpp
+  Link.cpp
+  IsSignallingChangedImplFuncs.cpp
+  IOLayer.cpp
+  IOBlock.cpp
+  Ganglion.cpp
+c:\development\sandbox\2015\farve2015solution\farve2015.core\ganglion.cpp(102): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(637): note: see declaration of '_itoa'
+  DynamicAllocationManager.cpp
+  Delegate.cpp
+  ComputeIsSignallingImplFuncs.cpp
+  Column.cpp
+c:\development\sandbox\2015\farve2015solution\farve2015.core\column.cpp(29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+System.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Farve2015.Core.vcxproj -> C:\Development\Sandbox\2015\Farve2015Solution\Libs\Farve2015.Core.lib
